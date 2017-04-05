@@ -2,3 +2,6 @@
 	path = caffe-fast-rcnn
 	url = https://github.com/le-k/caffe-fast-rcnn.git
 	branch = faster-rcnn-upstream-33f2445-merge-caffe
+[submodule "caffe"]
+	path = caffe
+	url = git@github.com:le-k/caffe.git
